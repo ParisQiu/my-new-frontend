@@ -67,7 +67,7 @@ export default function Community() {
         </div>
         <div className="mt-4 text-center">
           <Link href="/dashboard/community" className="text-sm font-medium text-blue-600 hover:text-blue-500">
-            View all discussions (coming soon)
+            View all discussions
           </Link>
         </div>
       </div>
